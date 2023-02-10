@@ -1,2 +1,2 @@
 FROM pierrezemb/gostatic
-COPY ./ /srv/http/
+COPY ./public/ /srv/http/
